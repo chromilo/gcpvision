@@ -1,0 +1,16 @@
+{
+  "requests": [
+    {
+      "image": {
+        "source": {
+          "imageUri": "gs://chromilo/IMG_20201216_224356.jpg"
+        }
+      },
+      "features": [
+        {
+          "type": "DOCUMENT_TEXT_DETECTION"
+        }
+      ]
+    }
+  ]
+}

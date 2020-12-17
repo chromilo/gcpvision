@@ -1,0 +1,66 @@
+05
+Wk-6. (036-330)
+1
+1
+* Scrum
+February 20
+Wed
+A Deep Learning v/s. Fraditional ML
+2) Deep learning out performs I ). ML will work better
+with large
+dabarets. with smaller datasets,
+Ü) DL techniques will ! i) me will
+nequine
+require more
+relatively less
+infrastructure.
+4. DL is about learning
+W) mL will rather stands
+features, rather than.
+manually engineering
+them.
+i DL shines with when i) If the data is moderate size
+applied to complex/ muli diment 8 it doesn't contain too
+many
+- tional problems image clasification, features, and the hypothesis
+:
+etc i func. is nonlinear then we
+( powerfull
+1
+1
+1
+d
+MP, Speech recog
++
+try ML.
+1
+want to improve.
+dala
+!). Start with the business value: Break your thoughts down into
+small & specific component of the process of that
+you
+2) Get real with the data : Use production data to
+ensure that the training data
+match the reality
+reality of
+the
+real world
+deployment. ( kaggle)
+3 3). Learning is key to value: Learning from new о
+constant improvement
+Key Roles I
+Product Owner
+DevOps
+Designer
+Data Scientist
+ty Development
+Software Engineer
+quality Assuarance
+& Operations
+Summary
+Build an interdisciplinary
+start with a business problem \u003e\u003e Make sure of right datary team,
+ensures
+Data Engineer
+Don't Judge each day by the harvest you reap, but the seeds you plant. - Robert Louis Stevenson
+» Learn & iterate fast.
